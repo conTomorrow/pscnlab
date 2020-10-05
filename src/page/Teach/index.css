@@ -1,0 +1,18 @@
+.teach {
+    padding: 20px 100px;
+}
+
+.teach p {
+    line-height: 1.8;
+}
+
+.teach-resource {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    padding: 0px;
+}
+
+.teach-resource li {
+    padding: 20px 50px 0px 0px;
+}
